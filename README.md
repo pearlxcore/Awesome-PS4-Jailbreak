@@ -120,7 +120,10 @@ Loader](https://github.com/ps4dev/elf-loader). Ready to be used for homebrew dev
 * [PS4All](https://github.com/ItsDeidara/PS4All) – PS4 RTE Tool.
 * [Pkg_Tools](https://github.com/n1ghty/pkg_tools) – Collection of PS4 Pkg Tools.
 * [PS4 Error Code Viewer](https://github.com/xXxTheDarkprogramerxXx/PS4_Error_Code_Viewer/) – Open Source Version of PS4 Error Code Viewer.
-* [PS4 Error Code Checker](https://github.com/pearlxcore/PS4-Error-Code-Checker) – A tool to view PS4 Error Codes.
+* [PS4 Error Code Checker](https://github.com/pearlxcore/Playstation-Error-Code-Checker) – A tool to view Playstation Error Codes.
+* [PKG Tool GUI](https://github.com/pearlxcore/PKG-Tool-GUI) – GUI version of https://github.com/n1ghty/pkg_tools.
+* [PS4 Dump Checker](https://github.com/pearlxcore/PS4-Dump-Checker) – Tool to validate PS4 flash dump. 
+* [PS4 Dump Extractor](https://github.com/pearlxcore/PS4-Dump-Extractor) – Extract PS4 dump including sflash0 files.
 * [ELF FW Patcher](https://github.com/cfwprpht/ELF-FW-Patcher) – ELF FW Patcher for PS4 ELF files.
 * [DS4Lib](https://github.com/j0lama/DS4Lib) – Linux library to controll the Dualshock 4.
 * [PS4 MemAPI Sever](https://github.com/McCaulay/memapi-server) – PS4 Memory API Server.
