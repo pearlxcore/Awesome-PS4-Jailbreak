@@ -16,6 +16,7 @@ So, here is little list, that contains PS4 Jailbreak links. Feel free to contrib
 ## Homebrew
 User friendly-ish
 
+* [PKG Tool GUI](https://github.com/pearlxcore/PKG-Tool-GUI) – The tool allows us to perform various operations on PS4 PKG files.
 * [SHM](https://github.com/MRGhidini/SHM) – Sony Homebrew Manager.
 * [LibOrbisPkg](https://github.com/maxton/LibOrbisPkg) – Library for PS4 PKGs.
 * [PS4 NetCheatAPI](https://github.com/BISOON/PS4-NetCheatAPI) – NetCheat API for PS4.
@@ -121,7 +122,6 @@ Loader](https://github.com/ps4dev/elf-loader). Ready to be used for homebrew dev
 * [Pkg_Tools](https://github.com/n1ghty/pkg_tools) – Collection of PS4 Pkg Tools.
 * [PS4 Error Code Viewer](https://github.com/xXxTheDarkprogramerxXx/PS4_Error_Code_Viewer/) – Open Source Version of PS4 Error Code Viewer.
 * [PS4 Error Code Checker](https://github.com/pearlxcore/Playstation-Error-Code-Checker) – A tool to view Playstation Error Codes.
-* [PKG Tool GUI](https://github.com/pearlxcore/PKG-Tool-GUI) – GUI version of https://github.com/n1ghty/pkg_tools.
 * [PS4 Dump Checker](https://github.com/pearlxcore/PS4-Dump-Checker) – Tool to validate PS4 flash dump. 
 * [PS4 Dump Extractor](https://github.com/pearlxcore/PS4-Dump-Extractor) – Extract PS4 dump including sflash0 files.
 * [ELF FW Patcher](https://github.com/cfwprpht/ELF-FW-Patcher) – ELF FW Patcher for PS4 ELF files.
